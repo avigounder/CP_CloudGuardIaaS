@@ -24,5 +24,5 @@ sic_key               = "PLEASE ENTER SIC KEY"                                  
 ############------Networking-------###################
 vnet_name                     = "PLEASE ENTER VIRTUAL NETWORK NAME"                      # "checkpoint-vmss-vnet"
 address_space                 = "PLEASE ENTER VIRTUAL NETWORK ADDRESS SPACE"             # "10.0.0.0/16"
-subnet_prefixes               = PLEASE ENTER ADDRESS PREFIXES FOR SUBNETS"               # ["10.0.1.0/24","10.0.2.0/24"]
+subnet_prefixes               = "PLEASE ENTER ADDRESS PREFIXES FOR SUBNETS"              # ["10.0.1.0/24","10.0.2.0/24"]
 management_GUI_client_network = "0.0.0.0/0"
